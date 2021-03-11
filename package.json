@@ -1,0 +1,11 @@
+{
+  "name": "naudajs",
+  "version": "0.1.0",
+  "description": "A modular collection of wrappers around common Javascript DOM actions.",
+  "main": "src/nauda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Galbraith",
+  "license": "MIT"
+}
